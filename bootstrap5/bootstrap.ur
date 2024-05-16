@@ -662,7 +662,9 @@ style  border
 style  border_0
 style  border_1
 style  border_2
+style  g_2
 
+style hideable
 
 (* New in Bootstrap 4 *)
 
